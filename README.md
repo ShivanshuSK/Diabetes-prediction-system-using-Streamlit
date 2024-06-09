@@ -1,2 +1,7 @@
-# Diabetes-prediction-system-using-Streamlit
-A diabetes prediction system which predicts whether the user has some form of diabetes or not.
+# diabetes_prediction
+Preview of the Project
+
+![](images/1.PNG)
+![](images/2.PNG)
+![](images/3.PNG)
+![](images/4.PNG)
